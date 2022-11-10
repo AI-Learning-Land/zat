@@ -92,3 +92,4 @@ ENV/
 
 # PyCharm files
 .idea/
+data/fullTest/pcap/full.pcap

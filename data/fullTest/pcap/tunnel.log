@@ -1,0 +1,14 @@
+{"ts":1661436259.005766,"uid":"CTbOLr24r19ccnZB07","id.orig_h":"10.154.13.133","id.orig_p":62716,"id.resp_h":"10.154.13.5","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1661436263.780728,"uid":"C2612r4K5n8G6UEOGj","id.orig_h":"10.154.13.133","id.orig_p":62754,"id.resp_h":"10.154.13.10","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1661436285.57494,"uid":"CVKLNo2PQbzzCV2rD8","id.orig_h":"10.154.13.133","id.orig_p":62949,"id.resp_h":"10.154.13.4","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1661436288.156012,"uid":"CeiJ853xwQja8PF1qc","id.orig_h":"10.154.13.133","id.orig_p":62976,"id.resp_h":"10.154.13.22","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1661436319.025331,"uid":"CTbOLr24r19ccnZB07","id.orig_h":"10.154.13.133","id.orig_p":62716,"id.resp_h":"10.154.13.5","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
+{"ts":1661436323.808454,"uid":"C2612r4K5n8G6UEOGj","id.orig_h":"10.154.13.133","id.orig_p":62754,"id.resp_h":"10.154.13.10","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
+{"ts":1661436345.574961,"uid":"CVKLNo2PQbzzCV2rD8","id.orig_h":"10.154.13.133","id.orig_p":62949,"id.resp_h":"10.154.13.4","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
+{"ts":1661436348.161137,"uid":"CeiJ853xwQja8PF1qc","id.orig_h":"10.154.13.133","id.orig_p":62976,"id.resp_h":"10.154.13.22","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
+{"ts":1661436409.858076,"uid":"C9AWz14wPOuwnGhJT8","id.orig_h":"10.154.13.133","id.orig_p":63893,"id.resp_h":"10.154.13.30","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1661436459.855763,"uid":"C8C9Gam8iYyoYpar3","id.orig_h":"10.154.13.133","id.orig_p":64256,"id.resp_h":"10.154.13.2","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1661436460.263126,"uid":"CwuWeF3eexKMC86K0g","id.orig_h":"10.154.13.133","id.orig_p":64264,"id.resp_h":"10.154.13.3","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::DISCOVER"}
+{"ts":1661436469.864894,"uid":"C9AWz14wPOuwnGhJT8","id.orig_h":"10.154.13.133","id.orig_p":63893,"id.resp_h":"10.154.13.30","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
+{"ts":1661436519.858479,"uid":"C8C9Gam8iYyoYpar3","id.orig_h":"10.154.13.133","id.orig_p":64256,"id.resp_h":"10.154.13.2","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
+{"ts":1661436520.263992,"uid":"CwuWeF3eexKMC86K0g","id.orig_h":"10.154.13.133","id.orig_p":64264,"id.resp_h":"10.154.13.3","id.resp_p":3544,"tunnel_type":"Tunnel::TEREDO","action":"Tunnel::CLOSE"}
